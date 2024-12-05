@@ -1,5 +1,5 @@
 # My Dotfiles
-This repository contains setup files and scripts for my development as a programmer. Feel free totry them out as you please.  
+This repository contains setup files and scripts for my development as a programmer. Feel free to try them out as you please.  
 ## .nanorc
 This is my custom .nanorc configuration for Nano. After running my scripts it will change your .nanorc in your home directory to my custom version. 
 ## .bashrc
